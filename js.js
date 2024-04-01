@@ -12,6 +12,3 @@ const burgerListToggle = () => {
 
 document.getElementById('burger-button').addEventListener("click", burgerListToggle);
 document.getElementById('burger-close').addEventListener("click", burgerListToggle);
-
-
-
